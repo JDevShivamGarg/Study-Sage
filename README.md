@@ -19,7 +19,7 @@ Study Sage is a web application designed to help students keep track of their ac
 
 ## Installation
 
-1. Clone the repository:  `git clone https://github.com/GeekProgramer/Study-Sagey.git`
+1. Clone the repository:  `git clone https://github.com/JDevShivamGarg/Study-Sage.git`
 2. Set up XAMPP and start the Apache and MySQL services.
 3. Import the SQL database file (`StudySage.sql`) into your MySQL database.
 4. Configure the database connection in the `StudySage.sql` with your database credentials.
